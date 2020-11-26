@@ -2,11 +2,20 @@
   "name": "myb-pages",
   "version": "1.1.1",
   "description": "static web app workflow",
-  "keywords": [
-    "myb-pages"
-  ],
   "main": "lib/index.js",
   "bin": "bin/myb-pages.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mayibin/myb-pages"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "mayibin163@163.com",
+  "bugs": {
+    "url": "https://github.com/mayibin/myb-pages/issuess"
+  },
+  "homepage": "https://github.com/mayibin/myb-pages#readme",
   "license": "MIT",
   "files": [
     "bin",
