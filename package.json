@@ -1,9 +1,13 @@
 {
   "name": "myb-pages",
   "version": "1.0.0",
-  "main": "index.js",
-  "bin": "bin/myb-pages",
+  "main": "lib/index.js",
+  "bin": "bin/myb-pages.js",
   "license": "MIT",
+  "files": [
+    "bin",
+    "lib"
+  ],
   "dependencies": {
     "@babel/core": "^7.12.8",
     "@babel/preset-env": "^7.12.7",
