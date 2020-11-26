@@ -1,6 +1,10 @@
 {
   "name": "myb-pages",
   "version": "1.0.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "myb-pages"
+  ],
   "main": "lib/index.js",
   "bin": "bin/myb-pages.js",
   "license": "MIT",
